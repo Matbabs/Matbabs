@@ -5,7 +5,7 @@
 
 - 👨‍💻 Know about my experiences [https://www.matisse-babonneau.fr](https://www.matisse-babonneau.fr)
 
-- 💬 Ask me about **Web Fullstack & DevOps**
+- 💬 Ask me about **Web Development & DevOps**
 
 - 📫 How to reach me **matbabs78@gmail.com**
 
