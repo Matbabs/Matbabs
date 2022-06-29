@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matisse Babonneau</h1>
-<h3 align="center">A Fullstack Web & Cloud Developer from France</h3>
+<h3 align="center">A Full Stack Web & Cloud Developer from France</h3>
 
 #
 
